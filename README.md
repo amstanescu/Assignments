@@ -10,3 +10,7 @@ This repository contains my assignments
 [Assignment week 6](https://github.com/amstanescu/Assignments/blob/master/assignment4.ipynb)
 
 [Assignment week 8](https://github.com/amstanescu/Assignments/blob/master/assignment5.ipynb)
+
+[Final assignement python](https://github.com/amstanescu/Assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
+
+[R exam](https://github.com/amstanescu/Assignments/blob/master/OECD_R_exam.ipynb)
